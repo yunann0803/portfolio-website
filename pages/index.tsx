@@ -16,7 +16,7 @@ const index = () => {
           {services.map(service => (
             <motion.div 
             variants={fadeInUp}
-            className="bg-white rounded-lg lg:col-span-1 dark:bg-dark-200">
+            className="bg-white rounded-lg lg:col-span-1 dark:bg-dark-200" key={service.title}>
               < ServiceCard service={service}/>
           </motion.div>
           ))}

@@ -23,10 +23,10 @@ const resume = () => {
                     <p className="my-1 text-xs">Urban design project of Paya Lebar Air Base & conservation study of Old Bukit Timah Turf Club</p>
                     <h5 className="my-2 text-base font-bold">Economic Team Intern (2019)</h5>
                     <p className="font-semibold my-1text-sm">Aecom, Singapore</p>
-                    <p className="my-1 text-xs">Competitive analysis of smart city projects & Market analysis for retail devleopments during my pursuit of master's degree</p>
+                    <p className="my-1 text-xs">Competitive analysis of smart city projects & Market analysis for retail devleopments during my pursuit of master&apos;s degree</p>
                     <h5 className="my-2 text-base font-bold">Urban Planner (2017-2018)</h5>
                     <p className="font-semibold my-1text-sm">Environmental Design Service Pte Ltd, Taiwan</p>
-                    <p className="my-1 text-xs">Review of a historic district's master plan located in Taipei City</p>
+                    <p className="my-1 text-xs">Review of a historic district&apos;s master plan located in Taipei City</p>
                 </div>
             </motion.div>
             <motion.div variants={fadeInUp} initial="initial" animate="animate">
@@ -35,7 +35,7 @@ const resume = () => {
                     <h5 className="my-2 text-base font-bold">Master of Urban Planning (2018-2020)</h5>
                     <p className="font-semibold my-1text-sm">National University of Singapore, Singapore</p>
                     <p className="my-1 text-xs">3rd prize in URA competition “Runway for your imagination” (Jun 2020) </p>
-                    <h5 className="my-2 text-base font-bold">Bachelor's degree in Land Economics (2013-2017)</h5>
+                    <h5 className="my-2 text-base font-bold">Bachelor&apos;s degree in Land Economics (2013-2017)</h5>
                     <p className="font-semibold my-1text-sm">National ChengChi University, Taiwan</p>
                     <p className="my-1 text-xs">Representative of National Chengchi University in 11th Exhibition of the Planning Departments- Taiwan (May 2016) </p>
                 </div>
