@@ -11,7 +11,7 @@ const index = () => {
 <br/><br/>Knowledge of urban planning, urban economics, heritage conservation, and community engagement. <br/><br/>I also write articles that introduce places, culture, and history in Singapore, go check them out! </h5>
     <div className="flex-grow p-4 mt-5 bg-default-ivory dark:bg-dark-100" 
     style={{marginLeft:"-1.5rem", marginRight:"-1.5rem"}}>
-      <h6 className="my-3 text-xl font-bold tracking-wide">What My Core Competencies Are hahaha</h6>
+      <h6 className="my-3 text-xl font-bold tracking-wide">What My Core Competencies Are </h6>
       <motion.div className="grid gap-6 my-3 lg:grid-cols-2" variants={stagger} initial="initial" animate="animate" >
           {services.map(service => (
             <motion.div 
