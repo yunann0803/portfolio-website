@@ -3,7 +3,7 @@ import {GoLocation} from 'react-icons/go'
 import {RiFilePaperLine} from 'react-icons/ri'
 import{useTheme} from 'next-themes'
 import Image from 'next/image'
-import profilepic from "../public/images/yunann.jpg"
+import profilepic from "../public/images/annann.png"
 
 const Sidebar = () => {
 const{theme,setTheme} = useTheme();
