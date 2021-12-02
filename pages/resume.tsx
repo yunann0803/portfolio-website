@@ -2,6 +2,7 @@ import Bar from "../components/Bar"
 import { language, Skillset } from "../data"
 import {motion} from "framer-motion"
 import { fadeInUp, routeAnimation } from "../animation"
+import Head from "next/head"
 
 const resume = () => {
     return (
@@ -11,6 +12,11 @@ const resume = () => {
         initial="initial" 
         animate="animate"
         exit="exit">
+
+        <Head>
+        <title> Lee Yun Ann | Urban Planner | Resume</title>
+      </Head>
+        
 
         {/* experience and education */}
 

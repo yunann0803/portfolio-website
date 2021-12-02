@@ -5,12 +5,15 @@ import { useState } from "react"
 import { Category } from "../type"
 import { motion } from "framer-motion"
 import { fadeInUp, routeAnimation, stagger } from "../animation"
+import Head from "next/head"
 
 
 const Projects = () => {
 
     const [projects, setProjects] = useState(proarc);
     const [active, setActive] = useState("All");
+
+    const [showDetail,setshowDetail] = useState<number|null>(null);
 
     const handlerFilterCategory=(category:Category | "All")=>{
         if(category === "All"){
@@ -32,6 +35,10 @@ const Projects = () => {
         animate="animate"
         exit="exit"
         >
+
+        <Head>
+        <title> Lee Yun Ann | Urban Planner | Projects</title>
+      </Head>
         
         <ProjectsNavbar handlerFilterCategory={handlerFilterCategory} 
         active={active}/>
@@ -43,7 +50,7 @@ const Projects = () => {
             variants={fadeInUp} 
             key={proarc.name}
             >
-            <ProarcCard proarc={proarc}/>
+            <ProarcCard proarc={proarc} showDetail={showDetail} setshowDetail={setshowDetail}/>
             </motion.div>
             ))}   
 

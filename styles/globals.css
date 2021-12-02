@@ -11,3 +11,12 @@ body {
   font-size: 14px;
   color: #343a40;
 }
+
+::-webkit-scrollbar-thumb {
+  background-color: #e3dcd2;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 0px;
+}

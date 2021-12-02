@@ -31,7 +31,7 @@ const changeTheme=()=>{
             <p className="px-2 py-1 my-2 rounded-lg bg-default-ivory dark:bg-dark-200">Urban Planner/<br />Heritage Conservation Advocate</p>
             <a className="flex items-center justify-center px-2 py-1 my-2 space-x-2 rounded-lg bg-default-ivory dark:bg-dark-200"
             href="/assets/Lee,Yun-Ann CV_2020.pdf"
-            download="Yun Ann's CV"> 
+            download="Yun Ann's CV.pdf "> 
                 <RiFilePaperLine className="w-4 h-4 mx-2 text-yellow-800"/> Download Curriculum Vitae</a>
 
             {/* //social platforms icon */}
