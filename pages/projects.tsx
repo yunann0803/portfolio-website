@@ -37,6 +37,7 @@ const Projects = () => {
         >
 
         <Head>
+        <link rel="icon" type="image/png" sizes="32x32" href="/lion.jpg"/>
         <title> Lee Yun Ann | Urban Planner | Projects</title>
       </Head>
         
