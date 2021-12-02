@@ -9,7 +9,7 @@ const index = () => {
   return (
     <motion.div className="flex flex-col flex-grow px-6 pt-1" variants={routeAnimation} initial="initial" animate="animate" exit="exit">
       <Head>
-        <link rel="shortcut icon" href="../public/images/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="../public/favicon-32x32.png"/>
         <title> Lee Yun Ann | Urban Planner | Portfolio</title>
       </Head>
       <h5 className="my-3 text-base font-medium ">I am a <b>urban planner </b> with a degree in land economics. I have two years of working experience related to <b> master planning</b> and <b>heritage conservation</b> in Taiwan and Singapore.
