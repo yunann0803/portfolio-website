@@ -73,8 +73,8 @@ const ProarcCard: FunctionComponent<{
             </motion.div>
 
         <motion.div variants={stagger} initial="initial" animate="animate">
-            <motion.h2 variants={fadeInUp}className="mb-3 text-xl font-semibold md:text-2xl">{name}</motion.h2>
-            <motion.h3 variants={fadeInUp}className="mb-3 text-sm font-normal text-justify md:text-base" dangerouslySetInnerHTML={createMarkup()}/>
+            <motion.h2 variants={fadeInUp}className="mb-3 text-base font-semibold md:text-2xl">{name}</motion.h2>
+            <motion.h3 variants={fadeInUp}className="mb-3 text-xs font-normal text-justify md:text-base" dangerouslySetInnerHTML={createMarkup()}/>
 
             <motion.div variants={fadeInUp}className="flex flex-wrap mt-5 space-x-1 text-sm tracking-wider">
                 {
