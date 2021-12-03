@@ -32,7 +32,7 @@ const changeTheme=()=>{
             <a 
             className="flex items-center justify-center px-2 py-1 my-2 space-x-2 rounded-lg bg-default-ivory dark:bg-dark-200"
             href="/assets/Lee,Yun-Ann CV_2020.pdf" 
-            download="Yun Ann.pdf "> 
+            download="Yun Ann.pdf"> 
             <RiFilePaperLine className="w-4 h-4 mx-2 text-yellow-800"/>
             <span> Download Curriculum Vitae</span>
             </a>
