@@ -49,7 +49,7 @@ const ProarcCard: FunctionComponent<{
         <p className="my-2 text-center">{name}</p>
 
 {showDetail === id &&
-        <div className="fixed inset-y-0 left-0 z-10 grid items-center w-full h-auto p-8 text-black bg-opacity-95 md:p-10 md:grid-cols-2 md:w-6/12 gap-x-12 bg-default-ivory dark:text-white dark:bg-dark-100">
+        <div className="fixed inset-y-0 left-0 z-10 grid items-center w-full h-auto p-8 text-black bg-opacity-95 md:p-10 md:grid-cols-2 lg:w-6/12 gap-x-12 bg-default-ivory dark:text-white dark:bg-dark-100">
              <motion.div variants={stagger} initial="initial" animate="animate">
              {/* <img src={image_path} alt={name}/>  */}
 
