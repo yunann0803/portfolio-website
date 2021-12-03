@@ -221,7 +221,7 @@ export const proarc: Iproarc[] = [
         description: "Economically collaborating with Indonesia's government, developers have built multiple resorts in the north of Bintan Island. Advertised as Singapore's backyard, the island promotes trips that enable tourists to experience more of the isle.<br/><br/>Based on my observation, most of the people rather stayed in the resort paradise. However, we were too curious about what was outside, so we decided to book an island tour. The minivan started to drive on the bumpy road...",
         image_path: "/images/14.jpeg",
         deployed_url: "https://yunann0803.medium.com/14-bintan-happy-new-year-63e5dc9609d2",
-        category: ["Student Projects"],
+        category: ["Articles"],
         key_techs: ["Indonesia", "Urban Exploration"],
     },
     {
