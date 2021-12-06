@@ -31,7 +31,7 @@ const changeTheme=()=>{
             </h1>
             <p className="px-2 py-1 my-2 rounded-lg bg-default-ivory dark:bg-dark-200">Urban Planner/<br />Heritage Conservation Advocate</p>
             <a 
-            href="/images/Yun Ann CV.pdf" 
+            href="/images/YUN ANN cv.pdf" 
             download="Yun Ann CV.pdf"
             className="flex items-center justify-center px-2 py-1 my-2 space-x-2 rounded-lg bg-default-ivory dark:bg-dark-200"> 
             <RiFilePaperLine className="w-4 h-4 mx-2 text-yellow-800"/>
