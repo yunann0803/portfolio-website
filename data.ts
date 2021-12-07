@@ -110,7 +110,7 @@ export const proarc: Iproarc[] = [
     {
         id: 2,
         name: "Orchard Road",
-        description: "Rather than the nowadays high-end boutique shopping street, Orchard Road was once a large parcel of agricultural land. <br/><br/>Throughout the development timeline, more and more shopping malls have occupied both sides of the avenue, which turned into a well-known tourist attraction and formed a fantasy bubble.<br/><br/>I would say it is a parallel universe compared to the rest of Singapore as people here will indulge themselves in the world built by consumerism. This characteristic also reflects on the interaction of architectural elements.",
+        description: "Rather than the nowadays high-end boutique shopping street, Orchard Road was once a large parcel of agricultural land. <br/><br/>Throughout the development timeline, more and more shopping malls have occupied both sides of the avenue, which turned into a well-known tourist attraction and formed a fantasy bubble.<br/><br/>I would say it is a parallel universe compared to the rest of Singapore as people here indulge themselves in the world built by consumerism. This characteristic also reflects on the interaction of architectural elements.",
         image_path: "/images/2.png",
         deployed_url: "https://medium.com/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%99%83%E6%82%A0%E6%89%8B%E6%9C%AD/2-orchard-road-1f60bce4e9b7",
         category: ["Articles"],
@@ -155,7 +155,7 @@ export const proarc: Iproarc[] = [
     {
         id: 7,
         name: "Tiong Bahru",
-        description: "Growing up in Taipei where people can be easily exposed to lots of art and cultural events. That is why I found it frustrating at first in Singapore since I struggled to engage in similar activities. Luckily, Tiong Bahru catches my eye. <br/><br/>Some people criticize Singapore as the desert of culture and arts, and I might disagree to a certain extent, for Tiong Bahru is one of the districts with abundant activities going on. It is a must-go place for not only heritage building lovers but also artsy fans.",
+        description: "Growing up in Taipei where people can be easily exposed to lots of art and cultural events, I found it frustrating at first in Singapore since I struggled to engage in similar activities. Luckily, Tiong Bahru caught my eye. <br/><br/>Some people criticize Singapore as the desert of culture and arts, but I might disagree to a certain extent, for Tiong Bahru is one of the districts with abundant activities going on. It is a must-go place for not only heritage building lovers but also artsy fans.",
         image_path: "/images/7-1.jpeg",
         deployed_url: "https://medium.com/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%99%83%E6%82%A0%E6%89%8B%E6%9C%AD/7-tiong-bahru-bb1856774073",
         category: ["Articles"],
@@ -200,7 +200,7 @@ export const proarc: Iproarc[] = [
     {
         id: 12,
         name: "Southern Islands",
-        description: "During the period when job hunting and the pandemic put turmoil in my life, I had been trying different ways to calm myself down. <br/><br/>Then...Boom! These islands in the south of Singapore look therapeutic and tranquil, which seemed the best place to relax. What was more, I could do an island hopping tour with one cruise ticket! The cruise sailed, and our stress had faded out for a while.<br/><br/>And I found it very weirdly amusing to see the sign written 'this island was once a quarantine island.'",
+        description: "During the period when job hunting and the pandemic put turmoil in my life, I had been trying different ways to calm myself down. <br/><br/>Then...Boom! These islands in the south of Singapore look therapeutic and tranquil, which seemed the best place to relax. What was more, I could do an island hopping tour with one cruise ticket! The ship sailed, and our stress had faded out for a while.<br/><br/> Also, I found it weirdly amusing to see the sign written 'this island was once a quarantine island.'",
         image_path: "/images/12.jpeg",
         deployed_url: "https://medium.com/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%99%83%E6%82%A0%E6%89%8B%E6%9C%AD/12-southern-islands-37576505e8c7",
         category: ["Articles"],
@@ -209,7 +209,7 @@ export const proarc: Iproarc[] = [
     {
         id: 13,
         name: "Old Railways in Singapore",
-        description: "Not a railfan, but always a yes when it comes to a rail hike.<br/><br/> Besides the on-site exploration, after the rail ceased operation, the story is even more dramatic, which involved Malaysia and Singapore's government fighting over the land. The conflict even became a lawsuit case that was later submitted to International Criminal Court.",
+        description: "Not a railfan, but always a yes when it comes to a rail hike.<br/><br/> Besides the on-site exploration, the story after the operation was ceased is also interesting, which involved Malaysia and Singapore's government fighting over the land. The conflict even became a lawsuit case that was later submitted to International Criminal Court.",
         image_path: "/images/13.jpeg",
         deployed_url: "https://medium.com/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%99%83%E6%82%A0%E6%89%8B%E6%9C%AD/13-old-railways-in-singapore-2e2668f7743e",
         category: ["Articles"],
@@ -263,7 +263,7 @@ export const proarc: Iproarc[] = [
     {
         id: 19,
         name: "INDUS++ in Paya Lebar Air Base",
-        description: "(Aug.2019 - Apr.2020) <br/><br/>This project aimed to seek out the plan that brings in a new identity after the relocation of the air force. <br/><br/>Proposed the site to build up and upgrade the advantage of existing industries. By importing more diverse activities into the mixed-use districts, the notorious, polluted image of the industrial town would turn into a vibrant scene.<br/><br/>Hence, the plan will transform the site into a dynamic district that people and industries co-exist.",
+        description: "(Aug.2019 - Apr.2020) <br/><br/>This project aimed to seek out the plan that brings in a new identity after the relocation of the air base. <br/><br/>Proposed the site to build up and <b>retrofit existing industries</b>. By importing more diverse activities into the mixed-use districts, the notorious, polluted image of the industrial town would turn into a vibrant scene where industries and people can harmoniously coexist.<br/><br/> <b>The close loop that exchanges the resources and information</b> was established to support the functioning of industrial parks and residential zones.",
         image_path: "/images/23.png",
         deployed_url: "https://drive.google.com/file/d/1CWBRlZqUdlZHWN1OVEYQysFWearv1pug/view?usp=sharing",
         category: ["Student Projects"],
@@ -272,7 +272,7 @@ export const proarc: Iproarc[] = [
     {
         id: 20,
         name: "Greater One North Master Plan",
-        description: "(Jan.2019 - May.2019)<br/><br/>Collaborated with JTC Corporation and International Forum on Urbanism (IFOU). This project aimed to generate an innovation cluster in one-north district, Singapore.<br/><br/>Through profoundly investigating the industrial chain, analyzing user groups and spatial relationships, a holistic plan was developed that integrates green and blue network systems with industrial development.",
+        description: "(Jan.2019 - May.2019)<br/><br/>Collaborated with JTC Corporation and International Forum on Urbanism (IFOU). This project aimed to generate an innovation cluster in one-north district, promoting a <b> close partnership engaging a welcoming campus, a business park, and several research centres</b>.<br/><br/>Through profoundly investigating the industrial chain, analyzing user groups and spatial relationships, a holistic plan was developed that integrates <b>green and blue network systems</b> with the urban setting.",
         image_path: "/images/22.jpg",
         deployed_url: "",
         category: ["Student Projects"],
@@ -281,16 +281,16 @@ export const proarc: Iproarc[] = [
     {
         id: 21,
         name: "Aljunied Master Plan Review",
-        description: "(Mar.2019 - May.2019) <br/><br/>This project firstly conducted a thorough analysis which included land utilization, mobility, etc, and some issues were later identified and resolved. <br/><br/> Since Geylang is distinctive of its neighborhood activities and particular community texture, much effort spent to discover its unique urban context and local lifestyles. <br/><br/> The final urban plan and design followed the analysis to preserve the characteristics and bring in new characteristics.",
+        description: "(Mar.2019 - May.2019) <br/><br/>This project firstly conducted a thorough analysis which included land utilization, mobility, etc, and some issues were later identified and resolved. <br/><br/> Since Geylang is distinctive of its neighborhood activities and particular community texture, the core idea of the revision was to <b>strengthen its historical configuration</b> and <b>retain the original lifestyle</b> while <b>importing new socio-economic activities</b>. <br/><br/> The final urban plan and design followed the analysis to preserve the characteristics and bring in new elements.",
         image_path: "/images/21.jpg",
         deployed_url: "https://drive.google.com/file/d/1GsMzlHNDmPnwt-OesGnmDXflzg-DMhwQ/view?usp=sharing",
         category: ["Student Projects"],
-        key_techs: ["Singapore", "Master Plan Review", "Urban Planning", "Urban Design"],
+        key_techs: ["Singapore", "Master Plan Review", "Urban Design"],
     },
     {
         id: 22,
         name: "Light Up Shisizhang Development Plan",
-        description: "(Sep.2015 - May.2016)<br/><br/>Proposed urban plans and targets for the greenfield development, transformed the district into a resilient and vigorous neighbourhood.<br/><br/>The project focused on the infrastructural establishment and cultural conservation, both of which brighten up the district by importing new activities and industries, and at the same time retaining original lifestyles.",
+        description: "(Sep.2015 - May.2016)<br/><br/>Proposed urban plans for a <b>greenfield parcel slated for MRT development</b> in the future. Transformed the district into a resilient and vigorous neighbourhood.<br/><br/>The project focused on the <b>infrastructural establishment</b> and <b>residential development</b>, both of which brighten up the district by importing new activities and industries, and at the same time enhancing the living quality.",
         image_path: "/images/24.png",
         deployed_url: "https://drive.google.com/file/d/1w-41c-raL8GfApMUOMzPJEYp3sgndWe7/view?usp=sharing",
         category: ["Student Projects"],
@@ -299,7 +299,7 @@ export const proarc: Iproarc[] = [
     {
         id: 23,
         name: "The Master Plan Review of Former Military Maintenance Plant Area",
-        description: "(Sep.2014 - May.2015) <br/><br/>The project carried out spatial and socio-economic analysis for the former military base, followed by utilizing statistical data to identify the issues and predict population as well as economic trends.<br/><br/>Land use and zoning plans were developed to convert the former base into a vibrant precinct accommodating diverse user groups in Taipei City.",
+        description: "(Sep.2014 - May.2015) <br/><br/>The project carried out <b>spatial and socio-economic analysis</b> for the former military base, followed by utilizing statistical data to identify the issues and project population as well as economic trends.<br/><br/>Land use and zoning plans were developed to convert the former base into a vibrant precinct accommodating diverse user groups in Taipei City.",
         image_path: "/images/23.jpg",
         deployed_url: "https://drive.google.com/file/d/1gmoQnIM192VoDxKcT6GhnV2WT7Tco4Fw/view?usp=sharing",
         category: ["Student Projects"],
