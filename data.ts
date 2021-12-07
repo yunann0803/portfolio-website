@@ -263,7 +263,7 @@ export const proarc: Iproarc[] = [
     {
         id: 19,
         name: "INDUS++ in Paya Lebar Air Base",
-        description: "(Aug.2019 - Apr.2020) <br/><br/>This project aimed to seek out the plan that brings in a new identity after the relocation of the air force. <br/><br/>Proposed the site to build up and upgrade the advantage of existing industries. By importing more diverse activities into the mixed-use districts, the notorious, polluted image of the industrial town would turn into a vibrant scene.<br/><br/>Hence, the plan will transform into a community that people and industries co-exist.",
+        description: "(Aug.2019 - Apr.2020) <br/><br/>This project aimed to seek out the plan that brings in a new identity after the relocation of the air force. <br/><br/>Proposed the site to build up and upgrade the advantage of existing industries. By importing more diverse activities into the mixed-use districts, the notorious, polluted image of the industrial town would turn into a vibrant scene.<br/><br/>Hence, the plan will transform the site into a dynamic district that people and industries co-exist.",
         image_path: "/images/23.png",
         deployed_url: "https://drive.google.com/file/d/1CWBRlZqUdlZHWN1OVEYQysFWearv1pug/view?usp=sharing",
         category: ["Student Projects"],
@@ -281,7 +281,7 @@ export const proarc: Iproarc[] = [
     {
         id: 21,
         name: "Aljunied Master Plan Review",
-        description: "(Mar.2019 - May.2019) <br/><br/>This project firstly conducted a thorough analysis which included land utilization, mobility, etc, and some issues were later identified and resolved. <br/><br/> Since Geylang is distinctive of its neighborhood activities and and particular community texture, many efforts were spent to discover its unique urban context and local lifestyles. <br/><br/> The final urban plan and design followed the analysis to preserve the essence and bring in new characteristics.",
+        description: "(Mar.2019 - May.2019) <br/><br/>This project firstly conducted a thorough analysis which included land utilization, mobility, etc, and some issues were later identified and resolved. <br/><br/> Since Geylang is distinctive of its neighborhood activities and particular community texture, much effort spent to discover its unique urban context and local lifestyles. <br/><br/> The final urban plan and design followed the analysis to preserve the characteristics and bring in new characteristics.",
         image_path: "/images/21.jpg",
         deployed_url: "https://drive.google.com/file/d/1GsMzlHNDmPnwt-OesGnmDXflzg-DMhwQ/view?usp=sharing",
         category: ["Student Projects"],
@@ -290,7 +290,7 @@ export const proarc: Iproarc[] = [
     {
         id: 22,
         name: "Light Up Shisizhang Development Plan",
-        description: "(Sep.2015 - May.2016)<br/><br/>Proposed urban plans and targets for the greenfield development, and transformed the district into a resilient and vigorous neighbourhood.<br/><br/>The project focused on the infrastructural establishment and cultural conservation, both of which brighten up the district by importing new activities and industries, and at the same time retaining original lifestyles.",
+        description: "(Sep.2015 - May.2016)<br/><br/>Proposed urban plans and targets for the greenfield development, transformed the district into a resilient and vigorous neighbourhood.<br/><br/>The project focused on the infrastructural establishment and cultural conservation, both of which brighten up the district by importing new activities and industries, and at the same time retaining original lifestyles.",
         image_path: "/images/24.png",
         deployed_url: "https://drive.google.com/file/d/1w-41c-raL8GfApMUOMzPJEYp3sgndWe7/view?usp=sharing",
         category: ["Student Projects"],
@@ -299,7 +299,7 @@ export const proarc: Iproarc[] = [
     {
         id: 23,
         name: "The Master Plan Review of Former Military Maintenance Plant Area",
-        description: "(Sep.2014 - May.2015) <br/><br/>The project carried out spatial and socio-economic analysis for the former military base, followed by utilizing statistical data to identify the issues and predict population and economic trends.<br/><br/>Land use and zoning plans were developed to convert the former base into a vibrant precinct accommodating diverse user groups in Taipei City.",
+        description: "(Sep.2014 - May.2015) <br/><br/>The project carried out spatial and socio-economic analysis for the former military base, followed by utilizing statistical data to identify the issues and predict population as well as economic trends.<br/><br/>Land use and zoning plans were developed to convert the former base into a vibrant precinct accommodating diverse user groups in Taipei City.",
         image_path: "/images/23.jpg",
         deployed_url: "https://drive.google.com/file/d/1gmoQnIM192VoDxKcT6GhnV2WT7Tco4Fw/view?usp=sharing",
         category: ["Student Projects"],
