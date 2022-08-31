@@ -60,7 +60,6 @@ const changeTheme=()=>{
                     <span> Taiwanese, currently in Singapore</span>
                 </div>
                 <p className= "my-2">jessica429285@gmail.com</p>
-                <p className= "my-2">(+65) 8338-0723</p>
             </div>
 
             {/* Email button */}
