@@ -146,7 +146,7 @@ export const proarc: Iproarc[] = [
     {
         id: 6,
         name: "Holland Village",
-        description: "Yes, I am trying to visit Holland Village not only for drinks but also for different exploration!<br/><br/>When it comes to the name, people often picture a windmill in Holland Village, or the village comprises mainly of the Dutch population.<br/><br/>Well... it is not. And interestingly, it is said to be relevant to architecture!",
+        description: "Yes, I tried visit Holland Village not only for drinks but also for different exploration!<br/><br/>When it comes to the name, people often picture a windmill in Holland Village, or the village comprises mainly of the Dutch population.<br/><br/>Well... it is not. And interestingly, it is said to be relevant to architecture!",
         image_path: "/images/6.jpeg",
         deployed_url: "https://medium.com/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%99%83%E6%82%A0%E6%89%8B%E6%9C%AD/6-holland-village-c4d8472960cf",
         category: ["Articles"],
@@ -200,7 +200,7 @@ export const proarc: Iproarc[] = [
     {
         id: 12,
         name: "Southern Islands",
-        description: "During the period when job hunting and the pandemic put turmoil in my life, I had been trying different ways to calm myself down. <br/><br/>Then...Boom! These islands in the south of Singapore look therapeutic and tranquil, which seemed the best place to relax. What was more, I could do an island hopping tour with one cruise ticket! The ship sailed, and our stress had faded out for a while.<br/><br/> Also, I found it weirdly amusing to see the sign written 'this island was once a quarantine island.'",
+        description: "During the period when job hunting and the pandemic put turmoil in my life, I had tried different ways to calm myself down. <br/><br/>Then...Boom! These islands in the south of Singapore look therapeutic and tranquil, which seemed the best place to relax. What was more, I could do an island hopping tour with one cruise ticket! The ship sailed, and our stress had faded out for a while.<br/><br/> Also, I found it weirdly amusing to see the sign written 'this island was once a quarantine island.'",
         image_path: "/images/12.jpeg",
         deployed_url: "https://medium.com/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%99%83%E6%82%A0%E6%89%8B%E6%9C%AD/12-southern-islands-37576505e8c7",
         category: ["Articles"],
