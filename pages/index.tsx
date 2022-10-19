@@ -10,10 +10,10 @@ const index = () => {
     <motion.div className="flex flex-col flex-grow px-6 pt-1" variants={routeAnimation} initial="initial" animate="animate" exit="exit">
       <Head>
         <link rel="icon" type="image/png" sizes="32x32" href="/lion.jpg"/>
-        <title> Lee Yun Ann | Urban Planner | Portfolio</title>
+        <title> Lee Yun Ann | Consultant | Portfolio</title>
       </Head>
-      <h5 className="my-3 text-base font-medium ">I am a <b>urban planner </b> with a degree in land economics. I have two years of working experience related to <b> master planning</b> and <b>heritage conservation</b> in Taiwan and Singapore.
-<br/><br/>Knowledge of urban planning, urban economics, heritage conservation, and community engagement. <br/><br/>I also write articles that introduce places, culture, and history in Singapore, go check them out! </h5>
+      <h5 className="my-3 text-base font-medium ">I am a <b>Infrastructure Consultant </b> with a degree in land economics. I have more than 3 years of working experience related to <b> master planning</b>, <b> economics</b>, and <b>heritage conservation</b> in Taiwan and Singapore.
+<br/><br/>Knowledge of urban planning, urban economics, heritage conservation, and community engagement. <br/><br/>I have also been writing articles introducing places, culture, and history in Singapore. Feel free to check them out! </h5>
     <div className="flex-grow p-4 mt-5 bg-default-ivory dark:bg-dark-100" 
     style={{marginLeft:"-1.5rem", marginRight:"-1.5rem"}}>
       <h6 className="my-3 text-xl font-bold tracking-wide">What My Core Competencies Are </h6>

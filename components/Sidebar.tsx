@@ -57,7 +57,7 @@ const changeTheme=()=>{
             style={{marginLeft:"-1rem",marginRight:"-1rem"}}>
                 <div className="flex items-center justify-center space-x-2">
                     <GoLocation/>
-                    <span> Taiwanese, currently in Singapore</span>
+                    <span> Taiwanese based in Singapore</span>
                 </div>
                 <p className= "my-2">jessica429285@gmail.com</p>
             </div>
