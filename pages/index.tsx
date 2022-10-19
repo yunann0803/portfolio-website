@@ -12,7 +12,7 @@ const index = () => {
         <link rel="icon" type="image/png" sizes="32x32" href="/lion.jpg"/>
         <title> Lee Yun Ann | Consultant | Portfolio</title>
       </Head>
-      <h5 className="my-3 text-base font-medium ">I am a <b>Infrastructure Consultant </b> with a degree in land economics. I have more than 3 years of working experience related to <b> master planning</b>, <b> economics</b>, and <b>heritage conservation</b> in Taiwan and Singapore.
+      <h5 className="my-3 text-base font-medium ">I am an <b>Infrastructure Consultant </b> with a degree in land economics. I have more than 3 years of working experience related to <b> master planning</b>, <b> economics</b>, and <b>heritage conservation</b> in Taiwan and Singapore.
 <br/><br/>Knowledge of urban planning, urban economics, heritage conservation, and community engagement. <br/><br/>I have also been writing articles introducing places, culture, and history in Singapore. Feel free to check them out! </h5>
     <div className="flex-grow p-4 mt-5 bg-default-ivory dark:bg-dark-100" 
     style={{marginLeft:"-1.5rem", marginRight:"-1.5rem"}}>
