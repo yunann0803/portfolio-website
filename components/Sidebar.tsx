@@ -29,7 +29,7 @@ const changeTheme=()=>{
                 Lee Yun Ann    
                 </span>
             </h1>
-            <p className="px-2 py-1 my-2 rounded-lg bg-default-ivory dark:bg-dark-200">Urban Planner/<br />Heritage Conservation Advocate</p>
+            <p className="px-2 py-1 my-2 rounded-lg bg-default-ivory dark:bg-dark-200">Consultant in Infrastructure Advisory<br />Urban Planner<br />Heritage Conservation Advocate</p>
             <a 
             href="/images/YUN ANN cv-1.pdf" 
             download="Yun Ann CV.pdf"
