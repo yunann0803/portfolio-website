@@ -25,12 +25,15 @@ const resume = () => {
             <motion.div variants={fadeInUp} initial="initial" animate="animate" >
                 <h5 className="my-2 text-xl font-bold">Work Experience</h5>
                 <div>
-                    <h5 className="my-2 text-base font-bold">Research Assistant (2020-present)</h5>
+                     <h5 className="my-2 text-base font-bold">Consultant (2022-present)</h5>
+                    <p className="my-1 text-sm font-semibold">Aurecon, Singapore</p>
+                    <p className="my-1 text-xs">Provide business, engineering, and advisory solutions to clients.</p>
+                    <h5 className="my-2 text-base font-bold">Research Assistant (2020-2022)</h5>
                     <p className="my-1 text-sm font-semibold">National University of Singapore, Singapore</p>
-                    <p className="my-1 text-xs">Urban design project of Paya Lebar Air Base & conservation study of Old Bukit Timah Turf Club</p>
+                    <p className="my-1 text-xs">Participate in urban planning and design project of Paya Lebar Air Base & Conservation study of Old Bukit Timah Turf Club</p>
                     <h5 className="my-2 text-base font-bold">Economic Team Intern (2019)</h5>
                     <p className="font-semibold my-1text-sm">Aecom, Singapore</p>
-                    <p className="my-1 text-xs">Competitive analysis of smart city projects & Market analysis for retail devleopments during my pursuit of master&apos;s degree</p>
+                    <p className="my-1 text-xs">Conduct competitive analysis of smart city projects & Market analysis for retail devleopments during my pursuit of master&apos;s degree</p>
                     <h5 className="my-2 text-base font-bold">Urban Planner (2017-2018)</h5>
                     <p className="font-semibold my-1text-sm">Environmental Design Service Pte Ltd, Taiwan</p>
                     <p className="my-1 text-xs">Review of a historic district&apos;s master plan located in Taipei City</p>
